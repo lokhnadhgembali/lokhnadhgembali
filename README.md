@@ -1,18 +1,393 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>→ JobCheck Detecting Fake Job Posts Using NLP  <br>→ Data analysis projects using Python, Pandas, NumPy, Matplotlib & Seaborn  <br>→ Strengthening Data Structures & Algorithms (DSA) using C++<br><br>👯 I’m looking to collaborate on  <br>→ Beginner-friendly open-source projects  <br>→ Python / data analysis projects  <br>→ Simple web or AI-based student projects<br><br>🤝 I’m looking for help with  <br>→ Improving problem-solving and coding logic  <br>→ Writing clean and optimized C++ solutions  <br>→ Building real-world projects using APIs<br><br>🌱 I’m currently learning  <br>→ Data Structures and Algorithms  <br>→ Python for Data Analysis  <br>→ Basics of Machine Learning  <br>→ Web development for project integration<br><br>💬 Ask me about  <br>→ C++ programming and DSA basics  <br>→ Python, Pandas and data visualization  <br>→ Student projects and mini project ideas<br><br>⚡ Fun fact  <br>→ I enjoy converting real-world problems into small coding projects and learning faster by practicing problems daily.<br>
+<!-- ======================= HEADER ======================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.lokhnadh._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lokhnadh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Lokhnadh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokhnadhgembali@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:2563EB&height=220&section=header&text=Gembali%20Lokhnadh&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20Enthusiast%20%7C%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lokhnadhgembali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lokhnadhgembali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokhnadhgembali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI%2FML+Enthusiast;Python+%7C+Power+BI+%7C+SQL;Building+Data-Driven+Solutions;Open+Source+Contributor;Always+Learning+%26+Building" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-7.41-6366F1?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/India-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://portfolio-kalmfal3h-lokhnadhgembalis-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lokhnadh/">
+<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lokhnadhgembali@gmail.com">
+<img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/lokhnadhgembali">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=lokhnadhgembali&label=Profile%20Views&color=7C3AED&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/lokhnadhgembali?label=Followers&style=flat-square&color=6366F1"/>
+<img src="https://img.shields.io/github/stars/lokhnadhgembali?label=Stars&style=flat-square&color=4C1D95"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Lokhnadhgembali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+I'm **Gembali Lokhnadh**, a Computer Science Engineering student focused on **Data Analytics, AI/ML, and software development**.
+
+I enjoy transforming raw data into meaningful insights and building practical, data-driven applications. My experience spans **Python, SQL, Power BI, Microsoft Excel, machine learning, backend development, and modern web technologies**.
+
+Currently, I'm strengthening my expertise in:
+
+- 📊 Data Analytics & Visualization
+- 🤖 Machine Learning
+- 🐍 Python Development
+- 📈 Power BI & Business Intelligence
+- 🗄️ SQL & Database Management
+- 🌐 Full-Stack Development
+- 🔐 Secure Backend Systems
+- 🌱 Open Source Development
+
+### Open To
+
+**Data Analyst • Data Science • AI/ML • Software Development • Open Source Opportunities**
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql" />
+
+</p>
+
+### Data & Analytics
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</p>
+
+### Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Random%20Forest-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-7C3AED?style=for-the-badge"/>
+
+</p>
+
+### Web & Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,fastapi" />
+
+</p>
+
+### Databases & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
+
+</p>
+
+---
+
+# 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Data Preprocessing | Advanced | Data cleaning, validation, feature engineering |
+| Exploratory Data Analysis | Advanced | Statistical exploration and visualization |
+| Classification | Intermediate | Logistic Regression, Random Forest, XGBoost |
+| Machine Learning | Intermediate | Model training, evaluation and comparison |
+| Feature Engineering | Intermediate | Scaling, transformation and feature selection |
+| Model Evaluation | Intermediate | Accuracy, cross-validation, confusion matrices |
+| Data Visualization | Advanced | Power BI, Matplotlib, Seaborn |
+| NLP | Intermediate | TF-IDF based text classification |
+| Dashboard Development | Advanced | Interactive Power BI dashboards |
+
+---
+
+# 🚀 Featured Projects
+
+<details>
+<summary><b>🔎 JobCheck — Fake Job Detection Platform</b></summary>
+
+<br/>
+
+An AI-powered platform designed to detect fraudulent job postings using machine learning and real-time monitoring.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, FastAPI, SQLite, Next.js, React, Tailwind CSS |
+| **Scale** | 18K+ job postings |
+| **Performance** | 97.2% classification accuracy |
+| **Security** | JWT Authentication |
+| **Impact** | 3× faster fraudulent listing detection |
+| **Repository** | GitHub |
+
+### Highlights
+
+- Built an AI-powered fake job detection platform.
+- Developed a machine learning classification workflow.
+- Engineered a secure backend using FastAPI.
+- Implemented JWT authentication.
+- Optimized database management workflows.
+- Built a responsive administrative dashboard.
+- Added real-time activity tracking for fraud monitoring.
+
+</details>
+
+---
+
+<details>
+<summary><b>🎵 Music Genre Classification</b></summary>
+
+<br/>
+
+A multiclass machine learning system for predicting music genres using audio metadata and ensemble learning techniques.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, Random Forest, XGBoost |
+| **Scale** | 40K+ music tracks |
+| **Performance** | 89% classification accuracy |
+| **Evaluation** | Cross-validation, confusion matrix |
+| **Techniques** | Feature engineering, scaling, ensemble learning |
+| **Repository** | GitHub |
+
+### Highlights
+
+- Built a multiclass music genre classification system.
+- Trained and compared Random Forest and XGBoost models.
+- Processed raw audio metadata using feature engineering.
+- Applied scaling techniques to improve model generalization.
+- Used cross-validation for comparative model evaluation.
+- Analyzed feature importance and confusion matrices.
+
+</details>
+
+---
+
+<details>
+<summary><b>✈️ Airline Service Quality Analysis Dashboard</b></summary>
+
+<br/>
+
+An interactive Power BI dashboard analyzing passenger satisfaction, service quality and operational inefficiencies.
+
+| Category | Details |
+|---|---|
+| **Stack** | Power BI |
+| **Scale** | 10K+ passenger records |
+| **Performance** | 7% improvement in data accuracy |
+| **Visualization** | 10+ KPI cards, slicers and trends |
+| **Analysis** | Flight delays, service quality, passenger feedback |
+| **Repository** | GitHub |
+
+### Highlights
+
+- Developed an interactive Power BI dashboard.
+- Analyzed passenger satisfaction trends.
+- Identified service gaps across airline operations.
+- Cleaned and validated data to improve accuracy.
+- Designed KPI-driven visualizations.
+- Analyzed flight delays and customer feedback.
+- Generated actionable business insights.
+
+</details>
+
+---
+
+# 💼 Experience
+
+## Infosys Springboard
+
+**AI / Software Development Intern**  
+`Feb 2026 – Apr 2026`
+
+Worked on an AI-powered fake job detection platform focused on identifying fraudulent job postings.
+
+### Responsibilities
+
+- Developed backend functionality using **Python and FastAPI**.
+- Worked with **SQLite** for database management.
+- Implemented secure authentication workflows using **JWT**.
+- Contributed to a responsive administrative dashboard.
+- Worked with **Next.js, React and Tailwind CSS**.
+- Supported real-time fraud monitoring functionality.
+- Built solutions capable of detecting fraudulent listings significantly faster.
+
+**Skills:**  
+`Python` `FastAPI` `SQLite` `Next.js` `React` `Tailwind CSS` `JWT`
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🌱 **GSSoC 2026** | Open Source Contributor at GirlScript Summer of Code |
+| 💻 **LeetCode** | Solved 100+ problems |
+| ⭐ **HackerRank** | Earned 5-star rating in C++ |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+### IBM
+
+<img src="https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+### Cisco Networking Academy
+
+<img src="https://img.shields.io/badge/Cisco-Data%20Analytics%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+### NPTEL
+
+<img src="https://img.shields.io/badge/NPTEL-Privacy%20%26%20Security%20in%20Online%20Social%20Media-8B5CF6?style=for-the-badge"/>
+
+### HackerRank
+
+<img src="https://img.shields.io/badge/HackerRank-SQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+
+### FreeCodeCamp
+
+<img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-C%2B%2B%205%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lokhnadhgembali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokhnadhgembali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=lokhnadhgembali&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" />
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lokhnadhgembali&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokhnadhgembali&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/lokhnadhgembali/lokhnadhgembali/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - Advanced Data Analytics
+    - Machine Learning
+    - SQL
+    - Power BI
+    - Backend Development
+
+  building:
+    - Data-driven applications
+    - Machine Learning projects
+    - Interactive dashboards
+    - AI-powered solutions
+
+  exploring:
+    - AI/ML
+    - Data Science
+    - Full Stack Development
+    - Open Source
+
+  open_to:
+    - Data Analyst Opportunities
+    - Data Science Opportunities
+    - AI/ML Opportunities
+    - Software Development
+    - Open Source Collaboration
