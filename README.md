@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<a href="https://portfolio-kalmfal3h-lokhnadhgembalis-projects.vercel.app/">
+<a href="https://lokhnadhgembali.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -292,19 +292,19 @@ Worked on an AI-powered fake job detection platform focused on identifying fraud
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Lokhnadh/">
 <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/profile/lokhnadhgembali">
 <img src="https://img.shields.io/badge/HackerRank-C%2B%2B%205%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
+<a href="https://www.geeksforgeeks.org/profile/lokhnadhgembali?tab=activity">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/lokhnadh_2005">
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
