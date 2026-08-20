@@ -354,22 +354,14 @@ Worked on an AI-powered fake job detection platform focused on identifying fraud
 
 # 🐍 Contribution Snake
 
+# 🐍 Contribution Snake
+
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/lokhnadhgembali/lokhnadhgembali/output/github-contribution-grid-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/lokhnadhgembali/lokhnadhgembali/output/github-contribution-grid-snake.svg">
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/lokhnadhgembali/lokhnadhgembali/output/github-contribution-grid-snake.svg">
-
-</picture>
+<img
+  src="https://raw.githubusercontent.com/lokhnadhgembali/lokhnadhgembali/output/github-contribution-grid-snake-dark.svg?v=2"
+  alt="GitHub Contribution Snake"
+  width="100%">
 
 </div>
 
