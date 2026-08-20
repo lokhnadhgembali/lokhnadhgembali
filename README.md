@@ -354,8 +354,6 @@ Worked on an AI-powered fake job detection platform focused on identifying fraud
 
 # 🐍 Contribution Snake
 
-# 🐍 Contribution Snake
-
 <div align="center">
 
 <img
