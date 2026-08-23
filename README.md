@@ -72,49 +72,38 @@ Currently, I'm strengthening my expertise in:
 ### Languages
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=cpp,python,mysql" />
-
 </p>
 
 ### Data & Analytics
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python" />
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
 </p>
 
 ### Machine Learning
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Random%20Forest-16A34A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/XGBoost-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EDA-7C3AED?style=for-the-badge"/>
-
 </p>
 
 ### Web & Backend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,fastapi" />
-
 </p>
 
 ### Databases & Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
-
 </p>
 
 ---
@@ -267,23 +256,18 @@ Worked on an AI-powered fake job detection platform focused on identifying fraud
 # 📜 Certifications
 
 ### IBM
-
 <img src="https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
 
 ### Cisco Networking Academy
-
 <img src="https://img.shields.io/badge/Cisco-Data%20Analytics%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 ### NPTEL
-
 <img src="https://img.shields.io/badge/NPTEL-Privacy%20%26%20Security%20in%20Online%20Social%20Media-8B5CF6?style=for-the-badge"/>
 
 ### HackerRank
-
 <img src="https://img.shields.io/badge/HackerRank-SQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 
 ### FreeCodeCamp
-
 <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
 
 ---
@@ -291,23 +275,10 @@ Worked on an AI-powered fake job detection platform focused on identifying fraud
 # 💻 Coding Profiles
 
 <div align="center">
-
-<a href="https://leetcode.com/u/Lokhnadh/">
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/lokhnadhgembali">
-<img src="https://img.shields.io/badge/HackerRank-C%2B%2B%205%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/lokhnadhgembali?tab=activity">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/lokhnadh_2005">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
+<a href="https://leetcode.com/u/Lokhnadh/"><img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/lokhnadhgembali"><img src="https://img.shields.io/badge/HackerRank-C%2B%2B%205%20Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+<a href="https://www.geeksforgeeks.org/profile/lokhnadhgembali?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/lokhnadh_2005"><img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </div>
 
 ---
@@ -316,18 +287,16 @@ Worked on an AI-powered fake job detection platform focused on identifying fraud
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lokhnadhgembali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lokhnadhgembali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokhnadhgembali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lokhnadhgembali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top Languages"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lokhnadhgembali&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" />
-
+<img src="https://streak-stats.demolab.com?user=lokhnadhgembali&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -335,9 +304,7 @@ Worked on an AI-powered fake job detection platform focused on identifying fraud
 # 🏅 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lokhnadhgembali&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=lokhnadhgembali&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -345,9 +312,7 @@ Worked on an AI-powered fake job detection platform focused on identifying fraud
 # 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokhnadhgembali&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokhnadhgembali&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 </div>
 
 ---
@@ -355,12 +320,7 @@ Worked on an AI-powered fake job detection platform focused on identifying fraud
 # 🐍 Contribution Snake
 
 <div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/lokhnadhgembali/lokhnadhgembali/output/github-contribution-grid-snake-dark.svg?v=2"
-  alt="GitHub Contribution Snake"
-  width="100%">
-
+<img src="https://raw.githubusercontent.com/lokhnadhgembali/lokhnadhgembali/output/github-contribution-grid-snake-dark.svg?v=2" alt="GitHub Contribution Snake" width="100%">
 </div>
 
 ---
@@ -394,3 +354,4 @@ current_focus:
     - AI/ML Opportunities
     - Software Development
     - Open Source Collaboration
+```
