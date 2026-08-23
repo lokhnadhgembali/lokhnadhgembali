@@ -287,16 +287,16 @@ Worked on an AI-powered fake job detection platform focused on identifying fraud
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lokhnadhgembali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub Stats"/>
+<img height="180em" src="./profile/stats.svg" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lokhnadhgembali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top Languages"/>
+<img height="180em" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=lokhnadhgembali&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
+<img src="./profile/streak.svg" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -304,7 +304,7 @@ Worked on an AI-powered fake job detection platform focused on identifying fraud
 # 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lokhnadhgembali&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+<img src="./profile/trophy.svg" alt="GitHub Trophies"/>
 </div>
 
 ---
