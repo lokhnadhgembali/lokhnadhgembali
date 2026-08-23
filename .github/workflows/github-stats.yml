@@ -41,7 +41,7 @@ jobs:
           s = p.read_text()
           s = s.replace("https://github-readme-stats-sigma-five.vercel.app/api?username=lokhnadhgembali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9", "./profile/stats.svg")
           s = s.replace("https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lokhnadhgembali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9", "./profile/top-langs.svg")
-          s = s.replace("https://streak-stats.demolab.com?user=lokhnadhgembali&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6", "./profile/stats.svg")
+          s = s.replace("https://streak-stats.demolab.com?user=lokhnadhgembali&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6", "./profile/streak.svg")
           p.write_text(s)
           PY
 
