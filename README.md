@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/CGPA-7.48-6366F1?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lovely Professional University, India-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
